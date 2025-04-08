@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "icy-disk-9b26",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9e2b9ee4-e42f-4476-ae88-d8d6bcd67899",
+      "database_name": "wild-scene-791d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
